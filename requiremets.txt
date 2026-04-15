@@ -1,0 +1,11 @@
+SpeechRecognition
+pyttsx3
+pywhatkit
+wikipedia
+pygetwindow
+pyautogui
+pycaw
+comtypes
+requests
+playsound
+keyboard
