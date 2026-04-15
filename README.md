@@ -1,2 +1,17 @@
-# Jarvis-Voice-Assistant
-Jarvis is a powerful desktop voice assistant built using Python. It listens for a wake word ("Jarvis") and performs system tasks, web automation, and voice-based commands in real time.  This project demonstrates speech recognition, text-to-speech, system automation, API usage, and OS-level control — all combined into one smart assistant.
+# Jarvis Voice Assistant 🤖
+
+A Python-based desktop voice assistant with:
+- Speech recognition
+- System control
+- Volume & brightness control
+- YouTube playback
+- WhatsApp automation
+- Screenshot capture
+
+## Installation
+
+1. Install Python 3.11
+2. Install requirements:
+   pip install -r requirements.txt
+3. Run:
+   python jarvis.py
